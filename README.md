@@ -1,6 +1,5 @@
 # 🎯 Afsana Bonna - Software Quality Assurance Engineer  
-
-![Profile Banner](https://via.placeholder.com/1200x200.png?text=Welcome+to+My+GitHub+Profile!)  
+  
 
 Hi there! 👋 I'm **Afsana Bonna**, a passionate **Software Quality Assurance Engineer** with 2️⃣ years of professional experience. I ensure software quality through thorough **manual testing**, efficient **automation testing**, and robust **API testing**. 🚀  
 
@@ -48,9 +47,6 @@ Hi there! 👋 I'm **Afsana Bonna**, a passionate **Software Quality Assurance E
 Feel free to reach out for **collaboration**, **opportunities**, or a friendly chat about all things **quality assurance**!  
 
 📧 **Email**: [afsana.ab98@gmail.com](mailto:afsana.ab98@gmail.com)  
-🔗 **LinkedIn**: [Afsana Bonna]([https://www.linkedin.com/in/afsana-bonna/](https://www.linkedin.com/in/afsanabonna/))  
+🔗 **LinkedIn**: [Afsana Bonna](https://www.linkedin.com/in/afsanabonna/)  
 💻 **GitHub**: [github.com/Afsana-bonna](https://github.com/Afsana-bonna)  
 
----
-
-![Footer Banner](https://via.placeholder.com/1200x100.png?text=Let%27s+Build+High-Quality+Software+Together!)

@@ -32,7 +32,7 @@ Check out my GitHub for sample projects, automation scripts, and testing setups:
 ## 📬 Contact Me
 Feel free to reach out for collaboration, opportunities, or discussions about quality assurance and testing.
 
-- **Email**: [afsana.bonna@example.com](mailto:afsana.ab98@gmail.com)
+- **Email**: [afsana.ab98@gmail.com](mailto:afsana.ab98@gmail.com)
 - **LinkedIn**: [Afsana Bonna](https://www.linkedin.com/in/afsanabonna/)
 - **GitHub**: [github.com/Afsana-bonna](https://github.com/Afsana-bonna)
 
